@@ -1,5 +1,5 @@
-name = Bootstrap Starter
-description = Bootstrap starter theme.
+name = BOOTSTRAP_STARTER
+description = A theme for BOOTSTRAP_STARTER.
 base theme = bootstrap
 core = 6.x
 engine = phptemplate
