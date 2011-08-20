@@ -1,0 +1,5 @@
+name = Bootstrap Starter
+description = Bootstrap starter theme.
+base theme = bootstrap
+core = 6.x
+engine = phptemplate
