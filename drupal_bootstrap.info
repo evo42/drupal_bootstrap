@@ -1,0 +1,4 @@
+name = Drupal Bootstrap Core
+description = An implementation of the Twitter Bootstrap toolkit as a Drupal base theme.
+core = 6.x
+engine = phptemplate
