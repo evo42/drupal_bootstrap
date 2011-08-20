@@ -2,3 +2,31 @@ name = Bootstrap Core
 description = An implementation of the Twitter Bootstrap toolkit as a Drupal base theme.
 core = 6.x
 engine = phptemplate
+version = 6.x-1.x-dev
+
+; Styles
+stylesheets[all][] = libs/bootstrap/bootstrap-1.0.0.min.css
+
+; Scripts
+scripts[] = 
+
+; Regions
+regions[left] = Left sidebar
+regions[right] = Right sidebar
+regions[content] = Content
+regions[header] = Header
+regions[footer] = Footer
+
+; Features
+
+features[] = logo
+features[] = name
+features[] = slogan
+features[] = mission
+features[] = node_user_picture
+features[] = comment_user_picture
+features[] = search
+features[] = favicon
+features[] = primary_links
+features[] = secondary_links
+
